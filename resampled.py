@@ -2,7 +2,6 @@ import numpy as np
 import pandas as pd
 from sys import exit
 
-
 class Resample():
     """
         There are 2 methods in the class:
