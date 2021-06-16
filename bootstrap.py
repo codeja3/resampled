@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sys import exit
 
-class bootstrap():
+class Bootstrap():
     """
     Bootstrapping assumes:
 	1. Sample has been drawn from a normal distribution but is small (n<30)

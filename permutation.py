@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sys import exit
 
-class permutation():
+class Permutation():
     """
     Permutation assumes:
 	1. Sample has been drawn from a normal distribution but is small (n<30)
